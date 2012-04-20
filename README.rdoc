@@ -1,7 +1,7 @@
 = Polarise
 
 Polarise is Sublime Text 2 code editor's color theme.
-Repo include some code samples. It must help you see all features of this clor scheme.
+Repo include some code samples. It must help you see all features of this color scheme.
 
 = Installation
 
