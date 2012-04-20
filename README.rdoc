@@ -1,0 +1,14 @@
+= Polarise
+
+Polarise is Sublime Text 2 code editor's color theme.
+Repo include some code samples. It must help you see all features of this clor scheme.
+
+= Installation
+
+Copy file Polarise.tmTheme to 'Packages/Color Scheme - Default/' directory of the Sublime Text. You can see where this directory placed if you open User Preference file from Preferences menu and look to his path. For Mac OS is '~/Libraries/Application Support/Sublime Text 2'.
+
+= Contact and copyright
+
+Question? Please post an issue on 'https://github.com/dymio/Polarise/issues'. Please also contact me at mstrdymio[at]gmail.com if it's urgent.
+
+2012 Ivan Dymkov

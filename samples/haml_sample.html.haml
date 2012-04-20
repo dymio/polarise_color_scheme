@@ -1,0 +1,20 @@
+!!!
+%html
+  %head
+    %title Пример страницы на HTML5
+    %meta{:charset => "utf-8"}
+  %body
+    %header
+      %h1.headhead{:style => "display: block"} Header one
+    %nav
+      %a{:href => "link1.html"} first link text
+      %a{:href => "link2.html"} second link text
+      /
+        Comment
+    %section
+      %article
+        %input{"data-rel" => "foo", :type => "text", :value => "groza"}/
+        %p= @ruby_variable
+        = link_to 'goodbye Earth', 'link3.html'
+    %footer
+      %p Copyright: © Belka
